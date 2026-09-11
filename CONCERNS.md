@@ -1,3 +1,6 @@
+---
+project: awrit
+---
 <!-- refreshed: 2026-09-01 -->
 # Codebase Concerns
 

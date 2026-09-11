@@ -1,3 +1,6 @@
+---
+project: awrit
+---
 # Domain Pitfalls
 
 **Domain:** Terminal-based web browser with tmux support (Rust/TypeScript hybrid)

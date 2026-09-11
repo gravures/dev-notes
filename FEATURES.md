@@ -1,3 +1,6 @@
+---
+project: awrit
+---
 # Feature Landscape
 
 **Domain:** Terminal web browser with Kitty graphics protocol and tmux support

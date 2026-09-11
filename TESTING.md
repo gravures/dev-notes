@@ -1,3 +1,6 @@
+---
+project: awrit
+---
 # Testing Patterns
 
 **Analysis Date:** 2026-09-01

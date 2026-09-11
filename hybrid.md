@@ -1,3 +1,6 @@
+---
+project: awrit
+---
 # Session Summary: Awrit Tmux Hybrid Analysis
 
 ## Context

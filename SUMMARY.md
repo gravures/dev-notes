@@ -1,3 +1,6 @@
+---
+project: awrit
+---
 # Project Research Summary
 
 **Project:** Awrit Tmux Hybrid — terminal web browser with tmux support

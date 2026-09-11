@@ -4,7 +4,7 @@ current_phase: 2
 current_phase_name: NAPI Bindings Extension
 status: planning
 stopped_at: Phase 01 complete, ready to plan Phase 2
-last_updated: "2026-09-01T10:39:36.612Z"
+last_updated: 2026-09-01T10:39:36.612Z
 last_activity: 2026-09-01
 last_activity_desc: Phase 01 complete, transitioned to Phase 2
 state_head: 0ff643225b5a0f438d56f60a2254309b329c3c78
@@ -14,6 +14,7 @@ progress:
   total_plans: 1
   completed_plans: 1
   percent: 20
+project: awrit
 ---
 
 # Project State

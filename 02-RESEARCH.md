@@ -1,3 +1,6 @@
+---
+project: awrit
+---
 # Phase 2: NAPI Bindings Extension - Research
 
 **Researched:** 2026-09-01
